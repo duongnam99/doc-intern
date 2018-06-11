@@ -10,7 +10,7 @@
 	+ http://hocwebchuan.com/reference/cssSection/pr_float.php
 
 -poisition (!)
-	+ xác định ví trí tương đối, tuyệt đối của thành phần,  gây ảnh hưởng tới nhiều thuộc tính khác.
+	+ xác định ví trí tương đối, tuyệt đối của thành phần, gây ảnh hưởng tới nhiều thuộc tính khác.
 	+ relative: vị trí tuyệt đối.
 	+ absolute: định vị phụ thuộc vào thành phần cha
 	+ fixed: định vị tương đối theo cửa sổ trình duyệt
