@@ -1,0 +1,35 @@
+*thuộc tính 
+-display: 
+	+ block: thành phần hiển thị thành một khối, đúng 1 hàng độc lập so với các thành phần khác
+	+ inline: hiện thị nội tuyến (mặc định)
+	+ inline-block: khối nội tuyến
+	+ http://hocwebchuan.com/reference/cssSection/pr_display.php
+
+-float:
+	+ thành phần trôi nổi(left,right,inherit,none...)
+	+ http://hocwebchuan.com/reference/cssSection/pr_float.php
+
+-poisition (!)
+	+ xác định ví trí tương đối, tuyệt đối của thành phần,  gây ảnh hưởng tới nhiều thuộc tính khác.
+	+ relative: vị trí tuyệt đối.
+	+ absolute: định vị phụ thuộc vào thành phần cha
+	+ fixed: định vị tương đối theo cửa sổ trình duyệt
+	+ http://hocwebchuan.com/reference/cssSection/pr_position.php
+
+-width, height:
+	+ đơn vị: px,em,%.
+-column:
+-flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+-margin: tạo khoảng cách giữa hai thẻ html
+	+ px, em, %
+	+ left, right, top, bottom
+	+ http://hocwebchuan.com/reference/cssSection/pr_margin.php
+
+-padding: tạo khoảng cách giữa thẻ và nội dung bên trong nó
+
+-responsive: 
+	+ max-width (576,768px...)
+	+ bootstrap: https://v4-alpha.getbootstrap.com/layout/responsive-utilities/
+		
+		
